@@ -1,0 +1,15 @@
+{
+  "name": "[Pedro Henrique Franklin da Silva]",
+  "img": "[YOUR_IMG_URL]",
+  "links": {
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/pedro-henrique-franklin-da-silva-2a1538127/",
+    "github": "https://github.com/pedrohfranklin"
+  },
+  "jobTitle": "Looking for a new position to a front-end developer",
+  "location": {
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "country": "Brazil"
+  }
+}
